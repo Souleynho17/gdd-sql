@@ -1,0 +1,1 @@
+SELECT prenom, nom, numero_tel FROM dbuser.clients;

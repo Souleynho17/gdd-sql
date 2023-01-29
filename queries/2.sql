@@ -1,0 +1,1 @@
+SELECT job_fonction  FROM dbuser.employees;

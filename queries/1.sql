@@ -1,0 +1,1 @@
+SELECT prenom, nom  FROM dbuser.employees;

@@ -1,0 +1,1 @@
+SELECT nom, prenom FROM dbuser.employees where salary > 1800;

@@ -1,0 +1,1 @@
+SELECT round(avg(salary)) as salary FROM dbuser.employees;

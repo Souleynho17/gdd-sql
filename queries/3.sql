@@ -1,0 +1,1 @@
+SELECT sum(salary) as total_salary FROM dbuser.employees;
